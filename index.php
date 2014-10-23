@@ -3,4 +3,5 @@
     echo 'Hello, Alex! )'; // Git test 2
     echo 'Hello, friends!'; // Git test 3
     echo 'Hello, Sanek!'; // Git test 4
+    echo 'Hello, programmer )!'; // Git test 5
 ?>
